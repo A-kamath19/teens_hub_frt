@@ -12,7 +12,7 @@ Teens hub is a support group for teenagers in the age group of 13 to 19 years. I
 https://thankful-stone-051d07c10.1.azurestaticapps.net/
 
 # Collaborators:
-- Apeksha Kamath (A-kamath19)
-- Shreya Kakade (Shreya282)
-- Yumna Khan (Yumna2611)
-- Payal Kunwar (Payal-Kunwar)
+- Apeksha Kamath ([A-kamath19](https://github.com/A-kamath19))
+- Shreya Kakade ([Shreya282](https://github.com/Shreya282))
+- Yumna Khan ([Yumna2611](https://github.com/Yumna2611))
+- Payal Kunwar ([Payal-Kunwar](https://github.com/Payal-Kunwar))
