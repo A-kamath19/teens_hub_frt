@@ -8,5 +8,11 @@ Teens hub is a support group for teenagers in the age group of 13 to 19 years. I
 1. QnA Maker & Azure Chatbot
 2. Static Web App
 
-## Project Link
+# Project Link
 https://thankful-stone-051d07c10.1.azurestaticapps.net/
+
+# Collaborators:
+- Apeksha Kamath (A-kamath19)
+- Shreya Kakade (Shreya282)
+- Yumna Khan (Yumna2611)
+- Payal Kunwar (Payal-Kunwar)
